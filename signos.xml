@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<signos>
+
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>O primeiro signo do zodíaco, conhecido pela energia, coragem e impulsividade.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Signo de terra, valoriza a estabilidade, a beleza e a sensualidade. É conhecido pela teimosia.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Signo de ar, representa a comunicação, a dualidade e a curiosidade. Adora variedade.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Signo de água, simboliza a emoção, o lar, a família e a sensibilidade. Tende a ser nostálgico.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Signo de fogo, expressa liderança, criatividade e confiança. Gosta de ser o centro das atenções.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Signo de terra, conhecido pela organização, análise e senso prático. É detalhista e prestativo.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Signo de ar, busca o equilíbrio, a justiça e a harmonia nos relacionamentos e na vida.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Signo de água, é profundo, intenso, misterioso e possui uma grande capacidade de transformação.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Signo de fogo, é aventureiro, otimista e busca a sabedoria e o conhecimento superior.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Signo de terra, é ambicioso, disciplinado e focado em metas de longo prazo e sucesso material.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Signo de ar, é inovador, independente e valoriza a liberdade e as causas sociais e humanitárias.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>O último signo de água, é sonhador, compassivo e tem uma forte conexão com o mundo espiritual.</descricao>
+    </signo>
+
+</signos>

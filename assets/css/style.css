@@ -1,0 +1,39 @@
+body {
+    min-height: 100vh; 
+    background: linear-gradient(135deg, #1f4068 0%, #082032 100%);
+    color: #f5f5f5; 
+    display: flex;
+    align-items: center; 
+}
+
+.container {
+    padding: 30px;
+}
+
+.shadow-sm {
+    background-color: rgba(255, 255, 255, 0.05); 
+    border-color: rgba(255, 255, 255, 0.1); 
+    padding: 2.5rem !important;
+}
+
+h1, h2 {
+    color: #ffcc00; 
+    font-weight: 700;
+}
+
+.card.bg-primary {
+    background-color: #0077b6 !important;
+    border: none;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.btn-outline-secondary {
+    color: #ccc;
+    border-color: #ccc;
+    transition: background-color 0.3s ease;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #ccc;
+    color: #000;
+}
